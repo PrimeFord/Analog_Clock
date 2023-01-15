@@ -22,7 +22,7 @@ Clone or download this repository and run with a local server of open `index.htm
 
 ## Demo
 
-[Preview Here](https:https://analog-clock-sand.vercel.app/)
+[Preview Here](https://analog-clock-sand.vercel.app/)
 
 ![screenshot](./media/snip.png)
 
